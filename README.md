@@ -1,7 +1,7 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Mousam Bachhar</h1>
 <h3 align="center">A passionate fullstack developer with a strong interest in programming and algorithms</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/6tXM.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/6tXM.gi](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryuk0010&label=Profile%20views&color=0e75b6&style=flat" alt="ryuk0010" /> </p>
 
