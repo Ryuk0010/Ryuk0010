@@ -1,7 +1,7 @@
 ![MasterHead](https://media4.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Mousam Bachhar</h1>
 <h3 align="center">A passionate fullstack developer with a strong interest in programming and algorithms</h3>
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-375.gif">
+<img align="right" alt="Coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryuk0010&label=Profile%20views&color=0e75b6&style=flat" alt="ryuk0010" /> </p>
 
