@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuk0010&show_icons=true&theme=radical&title_color=00bfff&locale=en" alt="ryuk0010" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryuk0010&" alt="ryuk0010" /></p>
+
+# snake eating my contro
+![snake gif](https://github.com/Ryuk0010/Ryuk0010/blob/output/github-contribution-grid-snake.gif)
