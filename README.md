@@ -32,5 +32,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryuk0010&" alt="ryuk0010" /></p>
 
-# snake eating my contro
-![snake gif](https://github.com/Ryuk0010/Ryuk0010/blob/output/github-contribution-grid-snake.gif)
