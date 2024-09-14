@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryuk0010&label=Profile%20views&color=0e75b6&style=flat" alt="ryuk0010" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nu-mauve-60.vercel.app/](https://portfolio-nu-mauve-60.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mousambachhar111.vercel.app/]
 
 - 📫 How to reach me **mousambachhar2019@gmail.com**
 
