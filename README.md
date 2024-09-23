@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mousambachhar2019@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FTSylnRsn1u3_cvNvo0EueSs-y69Xbe4/view](https://drive.google.com/file/d/1FTSylnRsn1u3_cvNvo0EueSs-y69Xbe4/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bZB1Ucb9bDe4UsMH85O1uKQ74pNt8mKo/view?usp=drive_link](https://drive.google.com/file/d/1bZB1Ucb9bDe4UsMH85O1uKQ74pNt8mKo/view?usp=drive_link)
 
 - ⚡ Fun fact **Currently coding away my bugs, one coffee at a time. When I'm not debugging, I'm probably debating the best anime opening of all time.**
 
