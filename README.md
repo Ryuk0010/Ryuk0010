@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://mousambachhar111.vercel.app/](https://mousambachhar111.vercel.app/)
 
-- 📫 How to reach me **mousambachhar2019@gmail.com**
-
 - ⚡ Fun fact **Currently coding away my bugs, one coffee at a time. When I'm not debugging, I'm probably debating the best anime opening of all time.**
 
 <h3 align="left">Connect with me:</h3>
